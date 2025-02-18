@@ -1,0 +1,315 @@
+html, body {
+    overflow: auto;
+    height: 100%;
+    margin: 0;
+  }
+
+.rectangle1{
+    width: 187px; 
+    height: 536px; 
+    left: -5px; 
+    top: 488px; 
+    position: absolute; 
+    opacity: 0.40; 
+    background: #D9D9D9;
+}
+
+.rectangle2{
+   width: 193px; 
+   height: 478px; 
+   left: 127px; 
+   top: 546px; 
+   position: absolute; 
+   opacity: 0.30; 
+   background: #D9D9D9;
+}
+
+
+.rectangle3{
+    width: 372px;
+    height: 211px; 
+    left: 250px; 
+    top: 500px; 
+    position: absolute; 
+    opacity: 0.20; 
+    background: #D9D9D9;
+}
+
+.quote1{
+    width: 1000px; 
+    height: 126.03px; 
+    left: 724px; 
+    top: 950.18px; 
+    position: absolute; 
+    transform: rotate(-0.73deg); 
+    transform-origin: 0 0; 
+    text-align: justify; 
+    color: black; 
+    font-size: 100px; 
+    font-family: Bodoni 72; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    cursor: pointer;
+}
+
+.quote1:hover {
+    color: #881c1c; 
+    text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.5); 
+  }
+  
+.text1{
+    width: 216.01px; 
+    height: 624.62px; 
+    left: 70px; 
+    top: 69.20px; 
+    position: absolute; 
+    transform: rotate(-0.73deg); 
+    transform-origin: 0 0; 
+    text-align: justify; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Bodoni 72; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    opacity: 0;
+    transition: opacity 2s ease-in-out; 
+}
+
+.text2{
+    width: 209.46px;
+     height: 980px; 
+     left: 208px; 
+     top: 94.77px; 
+     position: absolute; 
+     transform: rotate(-0.73deg); 
+     transform-origin: 0 0; 
+     text-align: justify; 
+     color: black; 
+     font-size: 20px; 
+     font-family: Bodoni 72; 
+     font-weight: 400; 
+     word-wrap: break-word;
+     opacity: 0;
+    transition: opacity 2s ease-in-out; 
+}
+
+.text3{
+    width: 216.01px; 
+    height: 624.62px; 
+    left: 499px; 
+    top: 190.77px; 
+    position: absolute; 
+    transform: rotate(-0.73deg); 
+    transform-origin: 0 0; 
+    text-align: justify; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Bodoni 72; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    opacity: 0;
+    transition: opacity 2s ease-in-out; 
+}
+
+.text4{
+    width: 263.25px; 
+    height: 215.97px; 
+    left: 939px; 
+    top: 680.37px; 
+    position: absolute; 
+    transform: rotate(-0.73deg); 
+    transform-origin: 0 0;
+     text-align: justify; 
+     color: black; 
+     font-size: 20px; 
+     font-family: Bodoni 72; 
+     font-weight: 400; 
+     word-wrap: break-word;
+     opacity: 0;
+    transition: opacity 2s ease-in-out; 
+}
+
+.text5{
+    width: 236.06px; 
+    height: 621.31px; 
+    left: 637px;
+    top: 259.03px; 
+    position: absolute; 
+    transform: rotate(-0.73deg); 
+    transform-origin: 0 0; 
+    text-align: justify; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Bodoni 72; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    opacity: 0;
+    transition: opacity 2s ease-in-out; 
+}
+
+.text6{
+    width: 278.16px; 
+    height: 590.48px; 
+    left: 325px; 
+    top: 145.57px; 
+    position: absolute; 
+    transform: rotate(-0.73deg); 
+    transform-origin: 0 0; 
+    text-align: justify; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Bodoni 72; 
+    font-weight: 400; word-wrap: break-word;
+    opacity: 0;
+    transition: opacity 2s ease-in-out; 
+}
+
+.text7{
+    width: 471.70px; 
+    height: 639.03px; 
+    left: 930px; 
+    top: 38.18px; 
+    position: absolute; 
+    font-size: 40px; 
+    font-family: Lato; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+}
+
+
+@media screen and (max-width: 375px) {
+
+    .i-phone-se-2,
+    .i-phone-se-2 * {
+    box-sizing: border-box;
+    }
+
+    .cont {
+        background: #ffffff;
+        width: 320px;
+        height: 3325px;
+        position: relative;
+        overflow: auto;
+      }
+
+    .text1{
+        width: 216.84px; 
+        height: 618.23px; 
+        left: 25px; 
+        top: 23.78px; 
+        position: absolute; 
+        transform: rotate(-0.73deg); 
+        transform-origin: 0 0; 
+        text-align: justify; 
+        color: black; 
+        font-size: 20px; 
+        font-family: Bodoni 72; 
+        font-weight: 400; 
+        word-wrap: break-word;
+    }
+
+    .text2{
+        width: 217.41px; 
+        height: 983.87px; 
+        left: 26px; 
+        top: 229.79px; 
+        position: absolute; 
+        transform: rotate(-0.73deg); 
+        transform-origin: 0 0; 
+        text-align: justify; 
+        color: black; 
+        font-size: 20px; 
+        font-family: Bodoni 72; 
+        font-weight: 400; 
+        word-wrap: break-word;
+    }
+
+    .text5{
+        width: 220.08px; 
+        height: 592.86px; 
+        left: 33px; 
+        top: 845.82px; 
+        position: absolute; 
+        transform: rotate(-0.73deg); 
+        transform-origin: 0 0; 
+        text-align: justify; 
+        color: black; 
+        font-size: 20px; 
+        font-family: Bodoni 72;
+        font-weight: 400; 
+        word-wrap: break-word;
+    }
+
+    .text3{
+        width: 226.20px; 
+        height: 644.15px; 
+        left: 36px; 
+        top: 1213.90px; 
+        position: absolute;
+        transform: rotate(-0.73deg);
+         transform-origin: 0 0; 
+         text-align: justify; 
+         color: black; 
+         font-size: 20px;
+          font-family: Bodoni 72; 
+          font-weight: 400; 
+          word-wrap: break-word;
+    }
+
+    .text5{
+        width: 224.73px; 
+        height: 628.91px; 
+        left: 44px; 
+        top: 1751.88px; 
+        position: absolute; 
+        transform: rotate(-0.73deg); 
+        transform-origin: 0 0; 
+        text-align: justify; 
+        color: black; 
+        font-size: 20px; 
+        font-family: Bodoni 72; 
+        font-weight: 400; 
+        word-wrap: break-word; 
+    }
+
+    .text7{
+        width: 226.46px; 
+        height: 673.74px; 
+        left: 46px; 
+        top: 2445.53px; 
+        position: absolute;
+        font-size: 30px; 
+        font-family: Lato; 
+        font-weight: 400;
+        word-wrap: break-word;
+    }
+
+    .text4{
+        width: 263.25px; 
+        height: 215.97px; 
+        left: 27px; 
+        top: 3244.37px; 
+        position: absolute; 
+        transform: rotate(-0.73deg); 
+        transform-origin: 0 0; 
+        text-align: justify; 
+        color: black; 
+        font-size: 20px; 
+        font-family: Bodoni 72; 
+        font-weight: 400; 
+        word-wrap: break-word;
+    }
+
+    .quote1{
+        width: 350.29px; 
+        height: 213.17px; 
+        left: 29px; 
+        top: 3505.34px; 
+        position: absolute; 
+        color: black; 
+        font-size: 35px; 
+        font-family: Bodoni 72; 
+        font-weight: 400; 
+        word-wrap: break-word;
+    }
+}
