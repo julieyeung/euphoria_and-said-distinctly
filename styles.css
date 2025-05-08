@@ -2,6 +2,7 @@ html, body {
     overflow: auto;
     height: 100%;
     margin: 0;
+    background-color: #C4862D;
   }
 
 .rectangle1{
@@ -10,8 +11,8 @@ html, body {
     left: -5px; 
     top: 488px; 
     position: absolute; 
-    opacity: 0.40; 
-    background: #D9D9D9;
+    opacity: 0.30; 
+    background: #FCE1DA;
 }
 
 .rectangle2{
@@ -20,8 +21,8 @@ html, body {
    left: 127px; 
    top: 546px; 
    position: absolute; 
-   opacity: 0.30; 
-   background: #D9D9D9;
+    opacity: 0.25; 
+   background: #BF8D81;
 }
 
 
@@ -31,8 +32,8 @@ html, body {
     left: 250px; 
     top: 500px; 
     position: absolute; 
-    opacity: 0.20; 
-    background: #D9D9D9;
+   opacity: 0.10; 
+    background: #FCE1DA;
 }
 
 .quote1{
@@ -174,6 +175,7 @@ html, body {
     font-family: Lato; 
     font-weight: 400; 
     word-wrap: break-word; 
+    color: #B32F26;
 }
 
 
@@ -185,6 +187,7 @@ html, body {
     }
 
     .cont {
+        background-color: #C4862D;
         background: #ffffff;
         width: 320px;
         height: 3325px;
@@ -282,6 +285,7 @@ html, body {
         font-family: Lato; 
         font-weight: 400;
         word-wrap: break-word;
+        color: #B32F26;
     }
 
     .text4{
